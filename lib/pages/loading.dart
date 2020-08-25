@@ -18,6 +18,7 @@ void setupWorldTime() async{
     'location': instance.location,
     'time':instance.time,
     'flag':instance.flag,
+    'isDayTime': instance.isDayTime,
   });
 
 }
